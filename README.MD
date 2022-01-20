@@ -1,21 +1,20 @@
-<h1 align="Center">Hello there ! :wave</h1>
+<h1 align="Center">Hello there 👋</h1>
+
+Hi, I am [Ankit Lamsal](https://ankitlamsal.com.np/), an AI enthusiast and Web developer from Nepal. I am currently CS undergrad. I build websites, design graphics and do machine learning.
+I am also fond of open-source projects. I learned a lot from open source 
+
+You can Find Me in:
+<a href="https://twitter.com/_ankit_lamsal_">
+      <img align="left" alt="Ankit lamsal's Twitter" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ankit-lamsal-828b31165/">
+      <img align="left" alt="Ankit's LinkedIn" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/31jelykqu5fnyhqnesao2mfors7m?si=3514cc2c59514082">
+      <img align="left" alt="Abhishek's Spotify" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+![](https://visitor-badge.glitch.me/badge?page_id=ankitlamsal.visitor-badge&left_text=visitors)
 
 
-Hi, I am [Ankit Lamsal](https://ankitlamsal.com.np/), an AI enthusiast and Web developer from Nepal. I am currently CS
-undergrad. I build websites, design graphics and do machine learning.
 
-
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png 
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png 
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/_ankit_lamsal_
-[2]: https://www.linkedin.com/in/ankit-lamsal-828b31165/
-
-
-<p align="Center"><img src="https://github-readme-stats.vercel.app/api?username=ankitlamsal&theme=dark&show_icons=true" alt="Ankit Lamsal's Github Stats"></p>
+<p align="Center"><img src="https://github-readme-stats.vercel.app/api?username=ankitlamsal&theme=gotham&show_icons=true" alt="Ankit Lamsal's Github Stats"></p>
