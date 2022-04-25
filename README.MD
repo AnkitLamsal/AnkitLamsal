@@ -10,9 +10,6 @@ You can Find Me in:<br><br>
 <a href="https://www.linkedin.com/in/ankit-lamsal-828b31165/">
       <img align="left" alt="Ankit's LinkedIn" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/31jelykqu5fnyhqnesao2mfors7m?si=3514cc2c59514082">
-      <img align="left" alt="Abhishek's Spotify" width="20px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 ![](https://visitor-badge.glitch.me/badge?page_id=ankitlamsal.visitor-badge&left_text=visitors)
 
 
