@@ -37,4 +37,6 @@ You can Find Me in:<br><br>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ankitlamsal&theme=gotham&show_icons=true" alt="Ankit Lamsal's Github Stats"></p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitlamsal&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 For any collaboration works, do reach me out, [email](mailto:lamsalankit@gmail.com)
