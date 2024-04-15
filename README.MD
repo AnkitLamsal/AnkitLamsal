@@ -35,9 +35,6 @@ You can Find Me in:<br><br>
 
 **My Github Stats**
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ankitlamsal&theme=gotham&show_icons=true" alt="Ankit Lamsal's Github Stats"></p>
-<br>
-<br>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitlamsal&layout=compact&theme=radical"></p>
 <br>
 
